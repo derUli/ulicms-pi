@@ -1,0 +1,12 @@
+{
+	"source" : "extend",
+	"id": "pi",
+	"version": "1.0",
+	"description": "provides a shortcode to show π",
+	"categories": [
+		"developer",
+		"other"
+	],
+	"compatible_from": "2018.3",
+	"dependencies": []
+}
